@@ -1,0 +1,22 @@
+{
+  "name": "not-just-pasta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberto-aldera/not-just-pasta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberto-aldera/not-just-pasta/issues"
+  },
+  "homepage": "https://github.com/roberto-aldera/not-just-pasta#readme",
+  "dependencies": {
+    "markdown-it": "^12.2.0"
+  }
+}
