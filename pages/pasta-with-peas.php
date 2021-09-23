@@ -30,8 +30,7 @@
                 </ul>
                 <ol>
                     <li>Dice up onion and fry in some olive oil, adding in pancetta once onion has browned.</li>
-                    <li>After 5 minutes or so, add in peas and a little water and allow to simmer (season at this
-                        point).</li>
+                    <li>After 5 minutes or so, add in peas and a little water and allow to simmer (season at this point).</li>
                     <li>Once pasta is cooked, add it to the peas mix and add more olive oil and black pepper to taste.
                     </li>
                 </ol>
