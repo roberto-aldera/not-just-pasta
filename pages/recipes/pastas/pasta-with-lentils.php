@@ -3,8 +3,8 @@
 
 <head>
     <title>Pasta with lentils</title>
-    <?php require "../includes/header.php"; ?>
-    <link rel="stylesheet" href="../main.css">
+    <?php require "../../../includes/recipe-header.php"; ?>
+    <link rel="stylesheet" href="../../../main.css">
 </head>
 
 <body>
@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img class="img-fluid rounded" style="float:center" src="../images/placeholder.png"
+                <img class="img-fluid rounded" style="float:center" src="../../../images/pasta-with-lentils.png"
                     alt="pasta-with-lentils">
             </div>
             <div class="col-sm-6">
@@ -44,7 +44,7 @@
 </body>
 
 <footer>
-    <?php require "../includes/footer.php"; ?>
+    <?php require "../../../includes/recipe-footer.php"; ?>
 </footer>
 
 </html>
