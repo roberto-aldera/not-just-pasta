@@ -4,6 +4,7 @@
 <head>
     <title>Pasta with lentils</title>
     <?php require "../includes/header.php"; ?>
+    <link rel="stylesheet" href="../main.css">
 </head>
 
 <body>
