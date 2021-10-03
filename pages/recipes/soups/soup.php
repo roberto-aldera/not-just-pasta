@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Pasta</title>
+    <title>Soup</title>
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon_io/favicon-32x32.png">
@@ -38,8 +38,8 @@
                         Categories
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="pasta.php">Pasta</a>
-                        <a class="dropdown-item" href="../soups/soup.php">Soup</a>
+                        <a class="dropdown-item" href="../pastas/pasta.php">Pasta</a>
+                        <a class="dropdown-item" href="soup.php">Soup</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Other</a>
                     </div>
@@ -49,36 +49,36 @@
     </nav>
 
     <div class="jumbotron text-center bg-light">
-        <h1>Pasta</h1>
+        <h1>Soups</h1>
     </div>
 
     <div class="container">
         <div class="row">
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/pasta-with-peas.png" alt="sample image" />
+                    <img src="../../../images/bean-soup.png" alt="sample image" />
                     <figcaption>
-                        <h2>Pasta with peas</h2>
+                        <h2>Beans</h2>
                     </figcaption>
-                    <a href="pasta-with-peas.php"></a>
+                    <a href="#"></a>
                 </figure>
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/pasta-with-tuna.png" alt="sample image" />
+                    <img src="../../../images/tomato-and-barley-soup.png" alt="sample image" />
                     <figcaption>
-                        <h2>Pasta with tuna</h2>
+                        <h2>Tomato and barley</h2>
                     </figcaption>
-                    <a href="pasta-with-tuna.php"></a>
+                    <a href="#"></a>
                 </figure>
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/pasta-with-lentils.png" alt="sample image" />
+                    <img src="../../../images/pea-and-ham-soup.png" alt="sample image" />
                     <figcaption>
-                        <h2>Pasta with lentils</h2>
+                        <h2>Pea and ham</h2>
                     </figcaption>
-                    <a href="pasta-with-lentils.php"></a>
+                    <a href="#"></a>
                 </figure>
             </div>
         </div>
