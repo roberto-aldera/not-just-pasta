@@ -44,7 +44,8 @@ figure.photo h2 {
     padding: 5% 5%;
     margin: 0;
     top: 40%;
-    font-weight: 400;
+    font-weight: normal;
+    font-size: 20px;
 }
 
 figure.photo:before {
