@@ -54,7 +54,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm">
                 <figure class="photo">
                     <img src="../../../images/pasta-with-peas.png" alt="sample image" />
                     <figcaption>
@@ -63,7 +63,7 @@
                     <a href="pasta-with-peas.php"></a>
                 </figure>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm">
                 <figure class="photo">
                     <img src="../../../images/pasta-with-tuna.png" alt="sample image" />
                     <figcaption>
@@ -72,7 +72,7 @@
                     <a href="pasta-with-tuna.php"></a>
                 </figure>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm">
                 <figure class="photo">
                     <img src="../../../images/pasta-with-lentils.png" alt="sample image" />
                     <figcaption>
