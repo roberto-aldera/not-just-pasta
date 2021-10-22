@@ -38,7 +38,7 @@
                     alt="pasta-with-tuna">
             </div>
             <div class="col-sm-6">
-                <h3>Ingredients:</h3>
+                <h3>Ingredients</h3>
                 <ul>
                     <li>350g penne</li>
                     <li>2 tins of tuna</li>

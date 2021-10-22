@@ -39,7 +39,7 @@
                     alt="pasta-with-pancetta">
             </div>
             <div class="col-sm-6">
-                <h3>Ingredients:</h3>
+                <h3>Ingredients</h3>
                 <ul>
                     <li>350g penne</li>
                     <li>250g pancetta (two double-servings)</li>

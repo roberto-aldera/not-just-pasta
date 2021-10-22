@@ -99,6 +99,15 @@
                     <a href="pasta-with-ragu.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/pasta-with-pesto.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Pasta with pesto</h2>
+                    </figcaption>
+                    <a href="pasta-with-pesto.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>

@@ -39,7 +39,7 @@
                     alt="pasta-with-ragù">
             </div>
             <div class="col-sm-6">
-                <h3>Ingredients:</h3>
+                <h3>Ingredients</h3>
                 <ul>
                     <li>350g tagliatelle</li>
                     <li>500g mince</li>
