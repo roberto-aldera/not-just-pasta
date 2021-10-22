@@ -126,6 +126,15 @@
                     <a href="spaghetti-carbonara.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/lasagne.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Lasagne</h2>
+                    </figcaption>
+                    <a href="lasagne.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
