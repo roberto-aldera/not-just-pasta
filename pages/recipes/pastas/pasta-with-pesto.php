@@ -29,7 +29,7 @@
 
     <div class="jumbotron text-center bg-light">
         <h1>Pasta with pesto</h1>
-        <p>Because the italian flag has green in it too.</p>
+        <p>Because the Italian flag has green in it too.</p>
     </div>
 
     <div class="container">
@@ -43,10 +43,10 @@
                 <h5>Pesto:</h5>
                 <ul>
                     <li>50g pine nuts</li>
-                    <li>1/4 cup grated parmigiano</li>
+                    <li>&frac14 cup grated parmigiano</li>
                     <li>2 garlic cloves</li>
-                    <li>1/2 tsp salt</li>
-                    <li>1/2 cup olive oil</li>
+                    <li>&frac12 tsp salt</li>
+                    <li>&frac12 cup olive oil</li>
                     <li>2 large bunches of fresh basil</li>
                 </ul>
 
