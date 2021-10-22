@@ -65,11 +65,11 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/pasta-with-tuna.png" alt="sample image" />
+                    <img src="../../../images/pasta-with-pancetta.png" alt="sample image" />
                     <figcaption>
-                        <h2>Pasta with tuna</h2>
+                        <h2>Pasta with pancetta</h2>
                     </figcaption>
-                    <a href="pasta-with-tuna.php"></a>
+                    <a href="pasta-with-pancetta.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
@@ -79,6 +79,15 @@
                         <h2>Pasta with lentils</h2>
                     </figcaption>
                     <a href="pasta-with-lentils.php"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/pasta-with-tuna.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Pasta with tuna</h2>
+                    </figcaption>
+                    <a href="pasta-with-tuna.php"></a>
                 </figure>
             </div>
         </div>
