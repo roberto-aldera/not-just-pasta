@@ -108,6 +108,24 @@
                     <a href="pasta-with-pesto.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/pasta-with-broccoli.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Pasta with broccoli</h2>
+                    </figcaption>
+                    <a href="pasta-with-broccoli.php"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/spaghetti-carbonara.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Spaghetti carbonara</h2>
+                    </figcaption>
+                    <a href="spaghetti-carbonara.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
