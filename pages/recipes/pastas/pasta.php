@@ -135,6 +135,15 @@
                     <a href="lasagne.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/pasta-al-forno.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Pasta al forno</h2>
+                    </figcaption>
+                    <a href="pasta-al-forno.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
