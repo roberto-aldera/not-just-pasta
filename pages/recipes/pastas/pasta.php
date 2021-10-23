@@ -162,6 +162,15 @@
                     <a href="pasta-al-forno.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/risotto.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Risotto</h2>
+                    </figcaption>
+                    <a href="risotto.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
