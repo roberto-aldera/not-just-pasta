@@ -119,6 +119,15 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
+                    <img src="../../../images/gnocchi-with-salvia-pancetta.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Gnocchi salvia e pancetta</h2>
+                    </figcaption>
+                    <a href="gnocchi-with-salvia-pancetta.php"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
                     <img src="../../../images/spaghetti-carbonara.png" alt="sample image" />
                     <figcaption>
                         <h2>Spaghetti carbonara</h2>
