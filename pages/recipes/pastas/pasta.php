@@ -83,6 +83,15 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
+                    <img src="../../../images/pasta-with-fagioli.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Pasta with fagioli</h2>
+                    </figcaption>
+                    <a href="pasta-with-fagioli.php"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
                     <img src="../../../images/pasta-with-tuna.png" alt="sample image" />
                     <figcaption>
                         <h2>Pasta with tuna</h2>
