@@ -39,6 +39,7 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="pasta.php">Pasta</a>
+                        <a class="dropdown-item" href="../rice/rice.php">Rice + barley</a>
                         <a class="dropdown-item" href="../soups/soup.php">Soup</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Other</a>
@@ -160,15 +161,6 @@
                         <h2>Pasta al forno</h2>
                     </figcaption>
                     <a href="pasta-al-forno.php"></a>
-                </figure>
-            </div>
-            <div class="col-sm">
-                <figure class="photo">
-                    <img src="../../../images/risotto.png" alt="sample image" />
-                    <figcaption>
-                        <h2>Risotto</h2>
-                    </figcaption>
-                    <a href="risotto.php"></a>
                 </figure>
             </div>
         </div>

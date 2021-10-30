@@ -21,7 +21,7 @@
             <div class="navbar-nav">
                 <a class="nav-item nav-link active" href="../../../index.html">Home <span
                         class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="pasta.php">Pasta</a>
+                <a class="nav-item nav-link" href="rice.php">Rice + barley</a>
 
             </div>
         </div>

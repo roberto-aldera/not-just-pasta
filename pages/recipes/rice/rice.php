@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Soup</title>
+    <title>Rice</title>
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon_io/favicon-32x32.png">
@@ -39,8 +39,9 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="../pastas/pasta.php">Pasta</a>
-                        <a class="dropdown-item" href="../rice/rice.php">Rice + barley</a>
-                        <a class="dropdown-item" href="soup.php">Soup</a>
+                        <a class="dropdown-item" href="rice.php">Rice + barley</a>
+                        <a class="dropdown-item" href="../soups/soup.php">Soup</a>
+
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Other</a>
                     </div>
@@ -50,34 +51,34 @@
     </nav>
 
     <div class="jumbotron text-center bg-light">
-        <h1>Soups</h1>
+        <h1>Rice + barley</h1>
     </div>
 
     <div class="container">
         <div class="row">
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/bean-soup.png" alt="sample image" />
+                    <img src="../../../images/risotto.png" alt="sample image" />
                     <figcaption>
-                        <h2>Beans</h2>
+                        <h2>Risotto</h2>
+                    </figcaption>
+                    <a href="risotto.php"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/pearl-barley-butternut.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Pearl barley + butternut</h2>
                     </figcaption>
                     <a href="#"></a>
                 </figure>
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/tomato-and-barley-soup.png" alt="sample image" />
+                    <img src="../../../images/placeholder.png" alt="sample image" />
                     <figcaption>
-                        <h2>Tomato and barley</h2>
-                    </figcaption>
-                    <a href="#"></a>
-                </figure>
-            </div>
-            <div class="col-sm">
-                <figure class="photo">
-                    <img src="../../../images/pea-and-ham-soup.png" alt="sample image" />
-                    <figcaption>
-                        <h2>Pea and ham</h2>
+                        <h2>Kale fried rice</h2>
                     </figcaption>
                     <a href="#"></a>
                 </figure>
