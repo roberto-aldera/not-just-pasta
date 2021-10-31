@@ -71,7 +71,7 @@
                     <figcaption>
                         <h2>Pearl barley + butternut</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="barley-butternut.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
