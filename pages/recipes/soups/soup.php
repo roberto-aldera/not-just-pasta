@@ -61,7 +61,7 @@
                     <figcaption>
                         <h2>Beans</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="bean.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
