@@ -70,7 +70,7 @@
                     <figcaption>
                         <h2>Tomato and barley</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="tomato-barley.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
