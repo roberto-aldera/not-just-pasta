@@ -75,11 +75,11 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/pea-and-ham-soup.png" alt="sample image" />
+                    <img src="../../../images/pea-and-pancetta-soup.png" alt="sample image" />
                     <figcaption>
-                        <h2>Pea and ham</h2>
+                        <h2>Pea and pancetta</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="pea-pancetta.php"></a>
                 </figure>
             </div>
         </div>
