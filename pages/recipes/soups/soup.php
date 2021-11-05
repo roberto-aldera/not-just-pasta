@@ -82,6 +82,15 @@
                     <a href="pea-pancetta.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/broccoli-soup.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Broccoli</h2>
+                    </figcaption>
+                    <a href="broccoli.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
