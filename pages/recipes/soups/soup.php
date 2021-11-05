@@ -100,6 +100,15 @@
                     <a href="chicken.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/leek-and-potato-soup.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Leek and potato</h2>
+                    </figcaption>
+                    <a href="leek-and-potato.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
