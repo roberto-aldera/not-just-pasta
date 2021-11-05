@@ -91,6 +91,15 @@
                     <a href="broccoli.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/chicken-soup.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Chicken</h2>
+                    </figcaption>
+                    <a href="chicken.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
