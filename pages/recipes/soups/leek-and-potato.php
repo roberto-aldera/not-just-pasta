@@ -52,7 +52,6 @@
                     <li>Mixed herbs</li>
                 </ul>
                 <ol>
-                     
                     <li>Chop the onions, carrots, celery, leeks, and garlic.
                         Be sure to quarter the leeks length-ways, then dice.
                         Fry up all the veggies in oil.
