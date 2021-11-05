@@ -109,6 +109,15 @@
                     <a href="leek-and-potato.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/placeholder.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Pumpkin</h2>
+                    </figcaption>
+                    <a href="pumpkin.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
