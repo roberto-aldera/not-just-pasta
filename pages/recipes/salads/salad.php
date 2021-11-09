@@ -63,7 +63,7 @@
                     <figcaption>
                         <h2>Greek lentil</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="greek-lentil.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
