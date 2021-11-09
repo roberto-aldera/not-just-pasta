@@ -76,6 +76,15 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
+                    <img src="../../../images/warm-grain-mix.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Warm grain mix</h2>
+                    </figcaption>
+                    <a href="warm-grain-mix.php"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
                     <img src="../../../images/kale-fried-rice.png" alt="sample image" />
                     <figcaption>
                         <h2>Kale fried rice</h2>
