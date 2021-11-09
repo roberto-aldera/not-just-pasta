@@ -54,8 +54,6 @@
                     <li>Ground black pepper, to taste</li>
                 </ul>
                 <ol>
-                      
-   
                     <li>Melt 1 Tbsp of the butter in a pan over medium-high heat.
                         Sauté onions for 2 minutes, stirring occasionally.
                         Add garlic and ginger and cook for 1 minute, stirring often.

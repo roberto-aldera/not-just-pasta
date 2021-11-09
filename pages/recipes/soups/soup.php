@@ -41,6 +41,7 @@
                         <a class="dropdown-item" href="../pastas/pasta.php">Pasta</a>
                         <a class="dropdown-item" href="../rice/rice.php">Rice + barley</a>
                         <a class="dropdown-item" href="soup.php">Soup</a>
+                        <a class="dropdown-item" href="../salads/salad.php">Salads</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Other</a>
                     </div>

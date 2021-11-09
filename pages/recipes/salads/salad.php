@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Rice</title>
+    <title>Salads</title>
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon_io/favicon-32x32.png">
@@ -39,9 +39,9 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="../pastas/pasta.php">Pasta</a>
-                        <a class="dropdown-item" href="rice.php">Rice + barley</a>
+                        <a class="dropdown-item" href="../rice/rice.php">Rice + barley</a>
                         <a class="dropdown-item" href="../soups/soup.php">Soup</a>
-                        <a class="dropdown-item" href="../salads/salad.php">Salads</a>
+                        <a class="dropdown-item" href="salad.php">Salads</a>
 
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Other</a>
@@ -52,45 +52,36 @@
     </nav>
 
     <div class="jumbotron text-center bg-light">
-        <h1>Rice + barley</h1>
+        <h1>Salads</h1>
     </div>
 
     <div class="container">
         <div class="row">
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/risotto.png" alt="sample image" />
+                    <img src="../../../images/greek-lentil-salad.png" alt="sample image" />
                     <figcaption>
-                        <h2>Risotto</h2>
+                        <h2>Greek lentil</h2>
                     </figcaption>
-                    <a href="risotto.php"></a>
+                    <a href="#"></a>
                 </figure>
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/pearl-barley-butternut.png" alt="sample image" />
+                    <img src="../../../images/sesame-chicken-salad.png" alt="sample image" />
                     <figcaption>
-                        <h2>Pearl barley + butternut</h2>
+                        <h2>Sesame chicken</h2>
                     </figcaption>
-                    <a href="barley-butternut.php"></a>
+                    <a href="#"></a>
                 </figure>
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/warm-grain-mix.png" alt="sample image" />
+                    <img src="../../../images/cucumber-quinoa-salad.png" alt="sample image" />
                     <figcaption>
-                        <h2>Warm grain mix</h2>
+                        <h2>Cucumber quinoa</h2>
                     </figcaption>
-                    <a href="warm-grain-mix.php"></a>
-                </figure>
-            </div>
-            <div class="col-sm">
-                <figure class="photo">
-                    <img src="../../../images/kale-fried-rice.png" alt="sample image" />
-                    <figcaption>
-                        <h2>Kale fried rice</h2>
-                    </figcaption>
-                    <a href=kale-fried-rice.php></a>
+                    <a href=k#></a>
                 </figure>
             </div>
         </div>
