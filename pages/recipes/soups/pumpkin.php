@@ -35,7 +35,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img class="img-fluid rounded" style="float:center" src="../../../images/placeholder.png"
+                <img class="img-fluid rounded" style="float:center" src="../../../images/pumpkins.png"
                     alt="pumpkin-soup">
             </div>
             <div class="col-sm-6">

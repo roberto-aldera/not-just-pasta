@@ -111,7 +111,7 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/placeholder.png" alt="sample image" />
+                    <img src="../../../images/pumpkins.png" alt="sample image" />
                     <figcaption>
                         <h2>Pumpkin</h2>
                     </figcaption>
