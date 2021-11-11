@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <img class="img-fluid rounded" style="float:center" src="../../../images/sesame-chicken-salad.png"
-                    alt="kale-fried-rice">
+                    alt="sesame-chicken-salad">
             </div>
             <div class="col-sm-6">
                 <h3>Ingredients</h3>

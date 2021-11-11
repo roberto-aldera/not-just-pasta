@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <img class="img-fluid rounded" style="float:center" src="../../../images/greek-lentil-salad.png"
-                    alt="kale-fried-rice">
+                    alt="greek-lentil-salad">
             </div>
             <div class="col-sm-6">
                 <h3>Ingredients</h3>

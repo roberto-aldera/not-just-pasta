@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <img class="img-fluid rounded" style="float:center" src="../../../images/cucumber-quinoa-salad.png"
-                    alt="kale-fried-rice">
+                    alt="cucumber-quinoa">
             </div>
             <div class="col-sm-6">
                 <h3>Ingredients</h3>
