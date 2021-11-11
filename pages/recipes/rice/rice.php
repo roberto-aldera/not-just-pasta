@@ -42,9 +42,8 @@
                         <a class="dropdown-item" href="rice.php">Rice + barley</a>
                         <a class="dropdown-item" href="../soups/soup.php">Soup</a>
                         <a class="dropdown-item" href="../salads/salad.php">Salads</a>
-
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Other</a>
+                        <a class="dropdown-item" href="../smoothies/smoothies.php">Smoothies</a>
                     </div>
                 </li>
             </div>
