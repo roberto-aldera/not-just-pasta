@@ -81,7 +81,7 @@
                     <figcaption>
                         <h2>Cucumber quinoa</h2>
                     </figcaption>
-                    <a href=k#></a>
+                    <a href=cucumber-quinoa.php></a>
                 </figure>
             </div>
         </div>
