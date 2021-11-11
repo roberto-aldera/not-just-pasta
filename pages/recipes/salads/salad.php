@@ -72,7 +72,7 @@
                     <figcaption>
                         <h2>Sesame chicken</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="sesame-chicken.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
