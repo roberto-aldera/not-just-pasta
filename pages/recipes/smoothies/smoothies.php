@@ -73,7 +73,7 @@
                     <figcaption>
                         <h2>Mango masterpiece</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="mango-masterpiece.php"></a>
                 </figure>
             </div>
         </div>
