@@ -46,7 +46,7 @@
                     <li>4 Tbsp yoghurt</li>
                     <li>Squirt of honey</li>
                     <li>Dash of coconut</li>
-                    <li>½ tsp cinnamon</li>
+                    <li>&frac12; tsp cinnamon</li>
                     <li>Sprinkle of oats</li>
                     <li>Milk to get it to 800ml</li>
                     <li>Chia seeds on top</li>

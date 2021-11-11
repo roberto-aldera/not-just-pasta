@@ -50,7 +50,7 @@
                     <li>&frac13; cup fresh basil or parsley, chopped</li>
                     <li>&frac14; cup olive oil</li>
                     <li>2 Tbsp red/white wine vinegar</li>
-                    <li>1 Tbsp peanut butte</li>
+                    <li>1 Tbsp peanut butter</li>
                     <li>&frac12; tsp dried oregano</li>
                     <li>&frac12; tsp fine sea salt</li>
                 </ul>
