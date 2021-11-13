@@ -90,7 +90,7 @@
                     <figcaption>
                         <h2>Mixture of goodness</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="mixture-of-goodness.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
