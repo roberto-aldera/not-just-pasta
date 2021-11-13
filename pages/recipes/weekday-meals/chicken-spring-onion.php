@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <img class="img-fluid rounded" style="float:center" src="../../../images/chicken-spring-onion.png"
-                    alt="couscous">
+                    alt="sample-text">
             </div>
             <div class="col-sm-6">
                 <h3>Ingredients</h3>
