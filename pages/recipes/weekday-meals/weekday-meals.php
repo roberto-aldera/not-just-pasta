@@ -61,9 +61,9 @@
                 <figure class="photo">
                     <img src="../../../images/chicken-spring-onion.png" alt="sample image" />
                     <figcaption>
-                        <h2>Chicken spring onion</h2>
+                        <h2>Chicken and spring onion bake</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="chicken-spring-onion.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
