@@ -81,7 +81,7 @@
                     <figcaption>
                         <h2>Chicken a la king</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="chicken-a-la-king.php"></a>
                 </figure>
             </div>
         </div>
