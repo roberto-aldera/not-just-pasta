@@ -84,6 +84,51 @@
                     <a href="chicken-a-la-king.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/mixture-of-goodness.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Mixture of goodness</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/beef-stroganoff.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Beef stroganoff</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/meatballs-mash.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Meatballs and mash</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/chipolatas-rice.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Chipolatas and rice</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/sausage-veg.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Sausage and veg roast</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
