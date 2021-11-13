@@ -41,15 +41,6 @@
             <div class="col-sm-6">
                 <h3>Ingredients</h3>
                 <ul>
-                
-
-
-
-
-
-
-
-
                     <li>4 chicken breasts</li>
                     <li>&frac12; cup of chopped spring onion (about 4 or 5)</li>
                     <li>200ml cheese sauce (we used 350g…)</li>
