@@ -95,11 +95,11 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/beef-stroganoff.png" alt="sample image" />
+                    <img src="../../../images/square-meal.png" alt="sample image" />
                     <figcaption>
-                        <h2>Beef stroganoff</h2>
+                        <h2>Square meal</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="square-meal.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
