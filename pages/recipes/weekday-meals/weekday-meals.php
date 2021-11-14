@@ -138,6 +138,15 @@
                     <a href="peanut-soba-noodles.php"></a>
                 </figure>
             </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/placeholder.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Chilli con carne</h2>
+                    </figcaption>
+                    <a href="chilli-con-carne.php"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
