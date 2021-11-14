@@ -65,9 +65,8 @@
                         <li>Grated nutmeg to taste</li>
                     </ul>
                 
-                <ol>
                 <h3>Instructions</h3>
-                      
+                <ol>  
                     <li>Heat olive oil in a large saucepan and brown the mince; set it aside.</li>
                     <li>In the same saucepan, add some more olive oil and then add the onion, carrots, celery and garlic; cook until vegetables have softened a little (10-15 minutes).</li>
                     <li>Add the flour and tomato purée, and cook for 1-2 minutes.</li>

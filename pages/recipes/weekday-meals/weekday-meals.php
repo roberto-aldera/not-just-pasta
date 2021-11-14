@@ -140,7 +140,7 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/placeholder.png" alt="sample image" />
+                    <img src="../../../images/chilli-con-carne.png" alt="sample image" />
                     <figcaption>
                         <h2>Chilli con carne</h2>
                     </figcaption>
