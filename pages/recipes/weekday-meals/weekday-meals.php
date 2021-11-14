@@ -117,7 +117,7 @@
                     <figcaption>
                         <h2>Chipolatas and rice</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="chipolatas-rice.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
@@ -126,7 +126,16 @@
                     <figcaption>
                         <h2>Sausage and veg roast</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="sausage-veg.php"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/peanut-soba-noodles.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Peanut soba noodles</h2>
+                    </figcaption>
+                    <a href="peanut-soba-noodles.php"></a>
                 </figure>
             </div>
         </div>
