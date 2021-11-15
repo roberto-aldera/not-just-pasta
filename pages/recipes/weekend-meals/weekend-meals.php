@@ -78,11 +78,11 @@
             </div>
             <div class="col-sm">
                 <figure class="photo">
-                    <img src="../../../images/harvest-bowl.png" alt="sample image" />
+                    <img src="../../../images/harvest-bowls.png" alt="sample image" />
                     <figcaption>
-                        <h2>Harvest bowl</h2>
+                        <h2>Harvest bowls</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="harvest-bowls.php"></a>
                 </figure>
             </div> 
         </div>
