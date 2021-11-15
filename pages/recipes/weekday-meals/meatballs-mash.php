@@ -45,6 +45,8 @@
                     <li>2 onions</li>
                     <li>2 cloves of garlic</li>
                     <li>2 handfuls of cherry tomatoes (or tin of tomatoes)</li>
+                    <li>1 bay leaf</li>
+                    <li>Small bunch of fresh sage (if available)</li>
                     <li>1 chilli (pierce to release flavour)</li>
                     <li>4 medium potatoes</li>                    
                     <li>A dollop of butter</li>
@@ -52,18 +54,26 @@
                     <li>1 tsp nutmeg (heaped)</li>
                     <li>Spinach (~150g)</li>
                 </ul>
-                <ol>
+                
                   
                 <h3>Instructions</h3>
-                    <li>Fry meatballs until they brown.</li>
-                    <li>Add onion to brown, then add tomatoes and allow to simmer. 
-                        Season to taste.
-                        Red wine gives a good flavour too.
+                <h5>Main dish</h5>
+                    <ol>
+                        <li>Fry meatballs to seal them nicely.</li>
+                        <li>Add the onion and crush the garlic, allowing them to fry for a few minutes.
+                            If using the bay leaf, sage, and/or chilli, add it now.
+                        </li>
+                        <li>Pour in some red wine and let it evaporate for a minute.</li>
+                        <li>Add tomatoes and allow to simmer. 
+                            Season to taste.
                     </li>
-                    <li>Peel and boil the potatoes (chop them up to help them boil quicker if you like).</li>
-                    <li>Mash them with the milk and butter, adding salt, pepper, and nutmeg as desired.</li> 
-                    <li>Add the spinach to wilt with the meatballs, then serve.</li>   
-                </ol>
+                    </ol>
+                <h5>Mash</h5>
+                    <ol>
+                        <li>Peel and boil the potatoes (chop them up to help them boil quicker if you like).</li>
+                        <li>Mash them with the milk and butter, adding salt, pepper, and nutmeg as desired.</li> 
+                        <li>Add the spinach to wilt with the meatballs, then serve.</li>   
+                    </ol>
                 <p>
                     Serves 4.
                 </p>
