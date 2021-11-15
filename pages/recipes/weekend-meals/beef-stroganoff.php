@@ -40,21 +40,20 @@
             </div>
             <div class="col-sm-6">
                 <h3>Ingredients</h3>
-                
                     <ul>
-                    <li>Olive oil</li>
-                    <li>450g sirloin steak, cut across the grain into strips</li>
-                    <li>1 onion, diced</li>
-                    <li>450g mushrooms, sliced</li>
-                    <li>2 cloves garlic, minced</li>
-                    <li>2 Tbsp butter</li>
-                    <li>2 Tbsp plain flour</li>
-                    <li>1 &frac12; cups beef broth</li>
-                    <li>5ml dried thyme, or 5 sprigs fresh thyme</li>
-                    <li>1 Tbsp Dijon or grain mustard</li>
-                    <li>&frac12; cup Greek yoghurt</li>
-                    <li>1 mug of rice</li>
-                    <li>Choice veggies (like fresh French beans you've grown yourself and are quite proud of)</li>
+                        <li>Olive oil</li>
+                        <li>450g sirloin steak, cut across the grain into strips</li>
+                        <li>1 onion, diced</li>
+                        <li>450g mushrooms, sliced</li>
+                        <li>2 cloves garlic, minced</li>
+                        <li>2 Tbsp butter</li>
+                        <li>2 Tbsp plain flour</li>
+                        <li>1 &frac12; cups beef broth</li>
+                        <li>5ml dried thyme, or 5 sprigs fresh thyme</li>
+                        <li>1 Tbsp Dijon or grain mustard</li>
+                        <li>&frac12; cup Greek yoghurt</li>
+                        <li>1 mug of rice</li>
+                        <li>Choice veggies (like fresh French beans you've grown yourself and are quite proud of)</li>
                     </ul>
                 
                 <h3>Instructions</h3>
