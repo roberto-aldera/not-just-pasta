@@ -73,7 +73,7 @@
                     <figcaption>
                         <h2>Beef stroganoff</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="beef-stroganoff.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
