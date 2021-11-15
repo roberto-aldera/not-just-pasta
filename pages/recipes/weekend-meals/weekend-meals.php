@@ -84,7 +84,34 @@
                     </figcaption>
                     <a href="harvest-bowls.php"></a>
                 </figure>
-            </div> 
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/paella.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Paella</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/ras-el-hanout-traybake.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Ras el hanout traybake</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
+            <div class="col-sm">
+                <figure class="photo">
+                    <img src="../../../images/bobotie.png" alt="sample image" />
+                    <figcaption>
+                        <h2>Bobotie</h2>
+                    </figcaption>
+                    <a href="#"></a>
+                </figure>
+            </div>
         </div>
     </div>
 </body>
