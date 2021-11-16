@@ -109,7 +109,7 @@
                     <figcaption>
                         <h2>Bobotie</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="bobotie.php"></a>
                 </figure>
             </div>
         </div>
