@@ -43,6 +43,7 @@
                         <a class="dropdown-item" href="../soups/soup.php">Soup</a>
                         <a class="dropdown-item" href="../salads/salad.php">Salads</a>
                         <a class="dropdown-item" href="weekday-meals.php">Weekday meals</a>
+                        <a class="dropdown-item" href="../weekend-meals/weekend-meals.php">Weekend meals</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="../smoothies/smoothies.php">Smoothies</a>
                     </div>
