@@ -91,7 +91,7 @@
                     <figcaption>
                         <h2>Paella</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="paella.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
