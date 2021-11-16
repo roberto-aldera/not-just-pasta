@@ -100,7 +100,7 @@
                     <figcaption>
                         <h2>Ras el hanout traybake</h2>
                     </figcaption>
-                    <a href="#"></a>
+                    <a href="ras-el-hanout-traybake.php"></a>
                 </figure>
             </div>
             <div class="col-sm">
