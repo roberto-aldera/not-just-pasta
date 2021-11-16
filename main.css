@@ -4,10 +4,8 @@ figure.photo {
     position: relative;
     overflow: hidden;
     margin: 10px;
-    min-width: 220px;
-    max-width: 310px;
-    max-height: 220px;
-    width: 100%;
+    width: 280px;
+    height: 280px;
     background: #000000;
     color: #ffffff;
     text-align: center;
@@ -22,7 +20,7 @@ figure.photo * {
 }
 
 figure.photo img {
-    max-width: 100%;
+    max-width: 150%;
     position: relative;
     opacity: 0.8;
 }
