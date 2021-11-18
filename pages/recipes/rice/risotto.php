@@ -46,9 +46,10 @@
                     <li>3 garlic cloves</li>
                     <li>Handful of dried porcini</li>
                     <li>500g beef mince</li>
-                    <li>Chicken stock (2 cubes, 1 litre)</li>
+                    <li>Chicken stock (2 cubes, 900ml)</li>
                     <li>1 glass red wine</li>
                     <li>Parmigiano</li>
+                    <li>&frac12; tsp black pepper</li> 
                 </ul>
                 <ol>
                     <li>Dice the onion and crush the garlic before frying them in some olive oil.</li>    
@@ -57,9 +58,12 @@
                     <li>Slowly add the chicken stock and continue stirring.</li>
                     <li>Hydrate the dried mushrooms in a bowl of boiling water, then chop up with scissors before adding into the mix.
                         Add in the mushroom "tea" too, being careful to leave any silt behind.
+                        The black pepper can go in now too.
                     </li>
-                    <li>Throw in the red wine at this point, and cover the pot while it cooks for about 20 minutes.</li>
-                    <li>Add in the parmigiano and black pepper before serving.</li>
+                    <li>Throw in the red wine at this point, and cover the pot while it cooks for about 20 minutes.
+                        You shouldn't need to add any salt, as the stock seasons things well (as does the upcoming parmigiano).
+                    </li>
+                    <li>Add in the parmigiano and crack some fresh black pepper over each portion when serving.</li>
                 </ol>
                 <p>
                     Serves 5.
