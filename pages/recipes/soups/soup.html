@@ -4,8 +4,9 @@
 <script src="//code.jquery.com/jquery-1.10.2.js"></script>
 <script>
     $(function () {
-        $("#footer").load("../../../includes/footer.html");
         $("#header").load("../../../includes/recipe-header.html");
+        $("#footer").load("../../../includes/footer.html");
+        $("#navbar").load("../../../includes/navbar-smoothies.html");
     });
 </script>
 
@@ -22,11 +23,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="../../../main.css">
-
 </head>
 
 <body>
-
+    <div id="navbar"></div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="../../../index.html">
             <img src="../../../favicon_io/android-chrome-512x512.png" width="30" height="30"
