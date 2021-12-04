@@ -29,7 +29,7 @@ jobs:
       - name: HTMLProofer
         uses: chabad360/htmlproofer@v1.1
         with:
-          directory: "../pages/recipes/pastas"
+          directory: "../pages/recipes/*"
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
