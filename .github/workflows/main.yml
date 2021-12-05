@@ -30,7 +30,7 @@ jobs:
         uses: chabad360/htmlproofer@v1.1
         with:
           directory: "./"
-        arguments: --file_ignore './includes/navbar-index.html'
+          arguments: --file_ignore './includes/navbar-index.html'
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
