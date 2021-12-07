@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script>
+    $(function () {
+        $("#header").load("../../../includes/recipe-header.html");
+        $("#footer").load("../../../includes/footer.html");
+        $("#navbar").load("navbar-curry.html");
+    });
+</script>
+
+<head>
+    <title>Curries</title>
+    <meta charset="utf-8">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="../../../favicon_io/site.webmanifest">
+    <div id="header"></div>
+    <link rel="stylesheet" href="../../../main.css">
+</head>
+
+<body>
+    <div id="navbar"></div>
+    <div class="jumbotron text-center bg-light">
+        <h1>Curries</h1>
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-auto">
+                <figure class="photo">
+                    <img src="../../../images/low-res/thai-chicken-curry.jpg" alt="sample image" />
+                    <figcaption>
+                        <h2>Thai chicken curry</h2>
+                    </figcaption>
+                    <a href="thai-chicken-curry.html"></a>
+                </figure>
+            </div>
+            <div class="col-auto">
+                <figure class="photo">
+                    <img src="../../../images/low-res/chickpea-curry.jpg" alt="sample image" />
+                    <figcaption>
+                        <h2>Chickpea curry</h2>
+                    </figcaption>
+                    <a href="chickpea-curry.html"></a>
+                </figure>
+            </div>
+        </div>
+    </div>
+</body>
+<div id="footer"></div>
+
+</html>
