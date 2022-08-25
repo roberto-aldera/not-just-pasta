@@ -30,3 +30,4 @@ jobs:
         uses: chabad360/htmlproofer@v1.1
         with:
           directory: "./"
+          arguments: --enforce_https=false
