@@ -6,9 +6,15 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
+
+  # External links are checked weekly rather than on every push: many hosts
+  # (Tesco, Cloudflare-fronted blogs) return 403 to datacenter IPs, so a
+  # per-push external run is flaky and hammers other people's servers.
+  schedule:
+    - cron: "5 12 * * 1"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -20,13 +26,24 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # Steps represent the sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Check HTML code
-      - name: HTMLProofer
+      # Check internal links, images and scripts on every push
+      - name: HTMLProofer (internal)
         uses: chabad360/htmlproofer@v1.1
         with:
           directory: "./"
+          arguments: --disable-external
+
+      # Check external links on the weekly schedule only. 403 and 429 mean
+      # "bot blocked" or "rate limited", which is not the same as a dead link,
+      # so they are reported as inconclusive rather than failures.
+      - name: HTMLProofer (external)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: chabad360/htmlproofer@v1.1
+        with:
+          directory: "./"
+          arguments: --ignore-status-codes 403,429
